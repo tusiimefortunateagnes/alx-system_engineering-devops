@@ -1,2 +1,2 @@
 #!/bin/bash
-is -p -a -m
+ls -amvp
